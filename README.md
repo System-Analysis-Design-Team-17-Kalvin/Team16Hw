@@ -15,4 +15,6 @@
 
 # Gantt Diagram
 
+# PERT Diagram
+
 # Critical Path
