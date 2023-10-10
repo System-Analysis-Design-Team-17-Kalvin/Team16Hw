@@ -16,5 +16,5 @@
 # Gantt Diagram
 ![](Gantt.png)
 # PERT Diagram
-
+![](PERT.jpg)
 # Critical Path
