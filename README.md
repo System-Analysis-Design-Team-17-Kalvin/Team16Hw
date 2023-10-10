@@ -14,7 +14,7 @@
 |  11  | 最終使用者測試  |    10    |  8,9,10  |          All           | -      |
 
 # Gantt Diagram
-
+![](Gantt.png)
 # PERT Diagram
 
 # Critical Path
